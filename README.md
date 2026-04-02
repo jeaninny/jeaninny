@@ -1,7 +1,7 @@
 ## Hi there 👋 
 Full Stack Developer in training, focused on TypeScript, JavaScript and Node.js.
 
-Currently studying Systems Analysis and Development and Development and AWS Cloud Practitioner certified.
+Currently studying Systems Analysis and Development, AWS Cloud Practitioner certified.
 
 Former lawyer turned developer. I bring analytical thinking and attention to detail into software development.
 
